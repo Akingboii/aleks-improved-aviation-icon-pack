@@ -1,0 +1,3 @@
+name=Alek's Improved Aviation Pack 1.1 (TBM 930)
+author=by Alek King
+link=https://github.com/Akingboii/aleks-improved-aviation-icon-pack
